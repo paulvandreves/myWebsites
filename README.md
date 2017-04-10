@@ -1,2 +1,2 @@
 # myWebsites
-This is a collection of all the websites I have created.
+This is a collection contains some of the websites I created for my html class at North Western Michigian College. 
